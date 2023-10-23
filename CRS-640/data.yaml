@@ -1,0 +1,12 @@
+names:
+- CRS
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: crs-om8yv
+  url: https://universe.roboflow.com/urijwu/crs-om8yv/dataset/10
+  version: 10
+  workspace: urijwu
+test: ../test/images
+train: ../content/datasets/yolov5//CRS-10/train/images
+val: ../content/datasets/yolov5//CRS-10/valid/images
